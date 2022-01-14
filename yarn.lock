@@ -138,115 +138,115 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@swc/core-android-arm-eabi@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-android-arm-eabi@npm:1.2.128"
+"@swc/core-android-arm-eabi@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-android-arm-eabi@npm:1.2.129"
   conditions: os=android & cpu=arm
   languageName: node
   linkType: hard
 
-"@swc/core-android-arm64@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-android-arm64@npm:1.2.128"
+"@swc/core-android-arm64@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-android-arm64@npm:1.2.129"
   conditions: os=android & cpu=arm64
   languageName: node
   linkType: hard
 
-"@swc/core-darwin-arm64@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-darwin-arm64@npm:1.2.128"
+"@swc/core-darwin-arm64@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-darwin-arm64@npm:1.2.129"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@swc/core-darwin-x64@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-darwin-x64@npm:1.2.128"
+"@swc/core-darwin-x64@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-darwin-x64@npm:1.2.129"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@swc/core-freebsd-x64@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-freebsd-x64@npm:1.2.128"
+"@swc/core-freebsd-x64@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-freebsd-x64@npm:1.2.129"
   conditions: os=freebsd & cpu=x64
   languageName: node
   linkType: hard
 
-"@swc/core-linux-arm-gnueabihf@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-linux-arm-gnueabihf@npm:1.2.128"
+"@swc/core-linux-arm-gnueabihf@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-linux-arm-gnueabihf@npm:1.2.129"
   conditions: os=linux & cpu=arm
   languageName: node
   linkType: hard
 
-"@swc/core-linux-arm64-gnu@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-linux-arm64-gnu@npm:1.2.128"
+"@swc/core-linux-arm64-gnu@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-linux-arm64-gnu@npm:1.2.129"
   conditions: os=linux & cpu=arm64
   languageName: node
   linkType: hard
 
-"@swc/core-linux-arm64-musl@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-linux-arm64-musl@npm:1.2.128"
+"@swc/core-linux-arm64-musl@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-linux-arm64-musl@npm:1.2.129"
   conditions: os=linux & cpu=arm64
   languageName: node
   linkType: hard
 
-"@swc/core-linux-x64-gnu@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-linux-x64-gnu@npm:1.2.128"
+"@swc/core-linux-x64-gnu@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-linux-x64-gnu@npm:1.2.129"
   conditions: os=linux & cpu=x64
   languageName: node
   linkType: hard
 
-"@swc/core-linux-x64-musl@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-linux-x64-musl@npm:1.2.128"
+"@swc/core-linux-x64-musl@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-linux-x64-musl@npm:1.2.129"
   conditions: os=linux & cpu=x64
   languageName: node
   linkType: hard
 
-"@swc/core-win32-arm64-msvc@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-win32-arm64-msvc@npm:1.2.128"
+"@swc/core-win32-arm64-msvc@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-win32-arm64-msvc@npm:1.2.129"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@swc/core-win32-ia32-msvc@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-win32-ia32-msvc@npm:1.2.128"
+"@swc/core-win32-ia32-msvc@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-win32-ia32-msvc@npm:1.2.129"
   conditions: os=win32 & cpu=ia32
   languageName: node
   linkType: hard
 
-"@swc/core-win32-x64-msvc@npm:1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core-win32-x64-msvc@npm:1.2.128"
+"@swc/core-win32-x64-msvc@npm:1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core-win32-x64-msvc@npm:1.2.129"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
 
-"@swc/core@npm:^1.2.128":
-  version: 1.2.128
-  resolution: "@swc/core@npm:1.2.128"
+"@swc/core@npm:^1.2.129":
+  version: 1.2.129
+  resolution: "@swc/core@npm:1.2.129"
   dependencies:
     "@node-rs/helper": ^1.0.0
-    "@swc/core-android-arm-eabi": 1.2.128
-    "@swc/core-android-arm64": 1.2.128
-    "@swc/core-darwin-arm64": 1.2.128
-    "@swc/core-darwin-x64": 1.2.128
-    "@swc/core-freebsd-x64": 1.2.128
-    "@swc/core-linux-arm-gnueabihf": 1.2.128
-    "@swc/core-linux-arm64-gnu": 1.2.128
-    "@swc/core-linux-arm64-musl": 1.2.128
-    "@swc/core-linux-x64-gnu": 1.2.128
-    "@swc/core-linux-x64-musl": 1.2.128
-    "@swc/core-win32-arm64-msvc": 1.2.128
-    "@swc/core-win32-ia32-msvc": 1.2.128
-    "@swc/core-win32-x64-msvc": 1.2.128
+    "@swc/core-android-arm-eabi": 1.2.129
+    "@swc/core-android-arm64": 1.2.129
+    "@swc/core-darwin-arm64": 1.2.129
+    "@swc/core-darwin-x64": 1.2.129
+    "@swc/core-freebsd-x64": 1.2.129
+    "@swc/core-linux-arm-gnueabihf": 1.2.129
+    "@swc/core-linux-arm64-gnu": 1.2.129
+    "@swc/core-linux-arm64-musl": 1.2.129
+    "@swc/core-linux-x64-gnu": 1.2.129
+    "@swc/core-linux-x64-musl": 1.2.129
+    "@swc/core-win32-arm64-msvc": 1.2.129
+    "@swc/core-win32-ia32-msvc": 1.2.129
+    "@swc/core-win32-x64-msvc": 1.2.129
   dependenciesMeta:
     "@swc/core-android-arm-eabi":
       optional: true
@@ -274,7 +274,7 @@ __metadata:
       optional: true
     "@swc/core-win32-x64-msvc":
       optional: true
-  checksum: 92e67e77a3c2328bf3537488c5291e4c929edf93896c8c809f097c2fb33eac8ea5ff63fe9676d75878d5e904fce37dbdc623f7b97d83bba7b2d90a7fa9588e35
+  checksum: a263ab78f181ebb2fc22c9d715d444608cf9e6edf2c1640aa6b52499185a61ff8687b63ea33716585e77e604214f2dce55bc0561a647f4ba17cc9c66ac373b82
   languageName: node
   linkType: hard
 
@@ -2427,7 +2427,7 @@ __metadata:
   resolution: "now@workspace:."
   dependencies:
     "@swc/cli": ^0.1.55
-    "@swc/core": ^1.2.128
+    "@swc/core": ^1.2.129
     "@typescript-eslint/eslint-plugin": ^5.9.1
     "@typescript-eslint/parser": ^5.9.1
     eslint: ^8.6.0
