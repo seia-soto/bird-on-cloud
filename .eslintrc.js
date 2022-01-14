@@ -4,7 +4,9 @@ module.exports = {
     es2021: true
   },
   extends: [
-    'standard'
+    'standard',
+    'standard-jsx',
+    'standard-react'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -13,5 +15,8 @@ module.exports = {
   },
   plugins: [
     '@typescript-eslint'
-  ]
+  ],
+  rules: {
+    'react/react-in-jsx-scope': 'off'
+  }
 }
